@@ -39,5 +39,29 @@ Este projeto realiza uma análise exploratória do dataset de vendas `sales_data
 
 ---
 
+**Explicação do notebook**
+
+O notebook data_driven_insights.ipynb é uma análise exploratória de um dataset de vendas (sales_data_sample.csv) que carreguei no meu Google Drive pessoal.
+
+**Como funciona:**
+
+**Carregamento dos dados**: lê o CSV e exibe as primeiras linhas para conhecer a base.
+
+**Análise inicial**: mostra tipos de dados, estatísticas básicas, e valores ausentes para entender qualidade e estrutura.
+
+**Transformação de dados**: converte colunas para formatos corretos (ex: datas), cria colunas auxiliares como MES_ANO.
+
+**Agrupamentos e métricas**: calcula total de vendas, número de pedidos por unidade e mês, identifica unidades com maior volume.
+
+**Visualizações**: gera gráficos (barras, distribuições) para mostrar tendências e destacar insights importantes.
+
+**Classificações com if/else**: segmenta vendas em categorias (Alta, Média, Baixa) para facilitar a análise e priorização.
+
+**Salvamento de gráficos**: exporta imagens para o Google Drive, facilitando uso no GitHub ou relatórios.
+
+## O motivo é criar um fluxo de análise organizado, que permita extrair informações úteis para tomada de decisão, apresentando dados limpos, visuais claros e insights acionáveis.
+
+---
+
 ## Autora
-      Kryssia Mendonça
+      Kryssia Mendonça - https://github.com/kryssiamendonca
